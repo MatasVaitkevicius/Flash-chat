@@ -1,2 +1,2 @@
 # Flash-chat
-Chatting app built with Flutter
+Chatting app built using Flutter
